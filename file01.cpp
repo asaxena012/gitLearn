@@ -5,7 +5,7 @@ int main(){
 
     cout<<"First File, 2nd edit"<<endl;
 
-    cout<<"Greetings mfs"<<endl;
+    cout<<"Greetings everyone"<<endl;
 
     return 0;
 }
